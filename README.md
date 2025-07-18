@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frztmr !
 - 👀 I’m interested in Webdevelopment and IOT!
 - 🌱 I’m currently learning JavaScript, CSS, HTML and any kind of web developent enviroment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me on email at frztmr.webdev@gmail[dot]com :)
 
 <!---
